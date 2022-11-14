@@ -1,0 +1,102 @@
+2022-11-09 18:16:11.277 - INFO - 2231 - azureml.train.automl._local_managed_utils.is_docker_installed:356 - Docker is not installed.
+2022-11-09 18:16:11.284 - INFO - 2231 - azureml.train.automl.automlconfig._start_execution:229 - Submitting remote.
+2022-11-09 18:45:11.553 - INFO - 2335 - azureml.train.automl._local_managed_utils.is_docker_installed:356 - Docker is not installed.
+2022-11-09 18:45:11.559 - INFO - 2335 - azureml.train.automl.automlconfig._start_execution:229 - Submitting remote.
+2022-11-09 18:46:59.898 - INFO - 2335 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetBestChild
+2022-11-09 18:47:00.013 - INFO - 2335 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2022-11-09 18:47:00.652 - INFO - 2335 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2022-11-09 18:47:05.375 - CRITICAL - 2335 - azureml.train.automl.run.log_traceback:227 - Type: ModelMissing
+Class: AutoMLException
+Message: AutoMLException:
+	Message: Could not find a model with valid score for metric 'norm_macro_recall'. Please ensure that at least one run was successfully completed with a valid score for the given metric.
+	InnerException: None
+	ErrorResponse 
+{
+    "error": {
+        "code": "UserError",
+        "message": "Could not find a model with valid score for metric 'norm_macro_recall'. Please ensure that at least one run was successfully completed with a valid score for the given metric.",
+        "target": "metric",
+        "inner_error": {
+            "code": "NotFound",
+            "inner_error": {
+                "code": "ModelMissing"
+            }
+        }
+    }
+}
+Traceback:
+  File "telemetry_activity_logger.py", line 58, in _log_activity
+    yield
+  File "run.py", line 854, in _get_all_automl_child_runs
+    raise AutoMLException._with_error(AzureMLError.create(ModelMissing, target="metric", metric=metric))
+
+ExceptionTarget: metric
+2022-11-09 18:47:05.376 - INFO - 2335 - azureml.train.automl.run._log_activity:93 - ActivityCompleted: Activity=GetChildren, HowEnded=Failure, Duration=4724.5[ms]
+2022-11-09 18:47:05.412 - CRITICAL - 2335 - azureml.train.automl.run.log_traceback:227 - Type: ModelMissing
+Class: AutoMLException
+Message: AutoMLException:
+	Message: Could not find a model with valid score for metric 'norm_macro_recall'. Please ensure that at least one run was successfully completed with a valid score for the given metric.
+	InnerException: None
+	ErrorResponse 
+{
+    "error": {
+        "code": "UserError",
+        "message": "Could not find a model with valid score for metric 'norm_macro_recall'. Please ensure that at least one run was successfully completed with a valid score for the given metric.",
+        "target": "metric",
+        "inner_error": {
+            "code": "NotFound",
+            "inner_error": {
+                "code": "ModelMissing"
+            }
+        }
+    }
+}
+Traceback:
+  File "telemetry_activity_logger.py", line 58, in _log_activity
+    yield
+  File "run.py", line 803, in _get_run_internal
+    child_runs_and_scores = self._get_all_automl_child_runs(automl_settings.primary_metric)
+  File "run.py", line 854, in _get_all_automl_child_runs
+    raise AutoMLException._with_error(AzureMLError.create(ModelMissing, target="metric", metric=metric))
+
+ExceptionTarget: metric
+2022-11-09 18:47:05.413 - INFO - 2335 - azureml.train.automl.run._log_activity:93 - ActivityCompleted: Activity=GetChildren, HowEnded=Failure, Duration=5399.49[ms]
+2022-11-09 18:47:05.414 - CRITICAL - 2335 - azureml.train.automl.run.log_traceback:227 - Type: ModelMissing
+Class: AutoMLException
+Message: AutoMLException:
+	Message: Could not find a model with valid score for metric 'norm_macro_recall'. Please ensure that at least one run was successfully completed with a valid score for the given metric.
+	InnerException: None
+	ErrorResponse 
+{
+    "error": {
+        "code": "UserError",
+        "message": "Could not find a model with valid score for metric 'norm_macro_recall'. Please ensure that at least one run was successfully completed with a valid score for the given metric.",
+        "target": "metric",
+        "inner_error": {
+            "code": "NotFound",
+            "inner_error": {
+                "code": "ModelMissing"
+            }
+        }
+    }
+}
+Traceback:
+  File "telemetry_activity_logger.py", line 58, in _log_activity
+    yield
+  File "run.py", line 639, in _get_best_child_run
+    curr_run = self._get_run_internal(iteration, metric, "get_output")
+  File "run.py", line 803, in _get_run_internal
+    child_runs_and_scores = self._get_all_automl_child_runs(automl_settings.primary_metric)
+  File "run.py", line 854, in _get_all_automl_child_runs
+    raise AutoMLException._with_error(AzureMLError.create(ModelMissing, target="metric", metric=metric))
+
+ExceptionTarget: metric
+2022-11-09 18:47:05.415 - INFO - 2335 - azureml.train.automl.run._log_activity:93 - ActivityCompleted: Activity=GetBestChild, HowEnded=Failure, Duration=5516.49[ms]
+2022-11-09 18:51:45.510 - INFO - 2455 - azureml.train.automl._local_managed_utils.is_docker_installed:356 - Docker is not installed.
+2022-11-09 18:51:45.516 - INFO - 2455 - azureml.train.automl.automlconfig._start_execution:229 - Submitting remote.
+2022-11-09 18:57:49.450 - INFO - 2455 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetBestChild
+2022-11-09 18:57:49.495 - INFO - 2455 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2022-11-09 18:57:50.240 - INFO - 2455 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2022-11-09 19:00:07.256 - INFO - 2455 - azureml.train.automl.run._log_activity:93 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=137015.92[ms]
+2022-11-09 19:00:07.259 - INFO - 2455 - azureml.train.automl.run._log_activity:93 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=137763.34[ms]
+2022-11-09 19:00:07.724 - INFO - 2455 - azureml.train.automl.run._log_activity:93 - ActivityCompleted: Activity=GetBestChild, HowEnded=Success, Duration=138274.04[ms]

@@ -1,0 +1,615 @@
+Gender,Married,Education,Loan_Status
+Male,False,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,False,Not Graduate,True
+Female,False,Graduate,False
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+,True,Not Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,False,Not Graduate,False
+Female,False,Graduate,True
+Male,True,Graduate,False
+Male,False,Graduate,False
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Female,True,Graduate,True
+Male,False,Graduate,True
+Male,False,Not Graduate,True
+Male,False,Graduate,False
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,True,Graduate,False
+Female,False,Graduate,True
+Female,True,Not Graduate,True
+Female,False,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,False
+Female,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,False
+Female,False,Graduate,False
+Male,True,Graduate,False
+Male,False,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,False,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,False,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,False
+Male,True,Not Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Female,True,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,False,Graduate,True
+Male,False,Not Graduate,True
+Male,False,Graduate,False
+Female,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Not Graduate,False
+Male,True,Graduate,False
+Male,True,Not Graduate,True
+Male,False,Graduate,True
+Female,True,Graduate,True
+Male,True,Not Graduate,False
+Female,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Female,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Female,False,Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Female,False,Graduate,True
+,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,False
+Male,False,Graduate,True
+Male,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,False
+Female,True,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Not Graduate,False
+Male,True,Graduate,False
+Male,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,True,Graduate,True
+Female,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Not Graduate,False
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,True,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,False,Not Graduate,False
+Male,True,Graduate,False
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Female,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Not Graduate,True
+Male,False,Graduate,False
+Male,True,Not Graduate,False
+Male,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,False
+Male,False,Graduate,True
+Female,False,Not Graduate,True
+Female,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Not Graduate,True
+Male,False,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Not Graduate,True
+Male,True,Not Graduate,True
+Female,False,Not Graduate,True
+Female,False,Graduate,True
+Male,False,Not Graduate,True
+Male,False,Graduate,True
+Male,False,Graduate,False
+Female,False,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Female,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Not Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Female,False,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Female,False,Graduate,False
+Male,False,Not Graduate,True
+Male,True,Not Graduate,True
+Male,False,Graduate,False
+Female,False,Graduate,True
+Male,False,Not Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,False
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,True
+Female,False,Graduate,False
+Female,False,Graduate,True
+Male,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,False
+Female,False,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,True,Not Graduate,True
+Male,False,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,False
+Male,False,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,True
+Female,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,True,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,False
+Male,True,Not Graduate,False
+Male,True,Not Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,False,Not Graduate,False
+Female,False,Graduate,True
+Female,False,Graduate,False
+Male,False,Graduate,False
+Male,True,Not Graduate,True
+Female,False,Graduate,True
+Male,False,Not Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+,True,Graduate,False
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,False,Graduate,True
+Male,True,Graduate,True
+Female,True,Graduate,False
+Female,False,Graduate,True
+Male,False,Graduate,True
+Male,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Not Graduate,False
+Female,False,Graduate,True
+Male,True,Not Graduate,False
+Female,False,Graduate,False
+Male,True,Not Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,True
+Female,True,Graduate,False
+Female,True,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,False,Not Graduate,False
+Male,False,Graduate,False
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Female,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,False
+Male,False,Graduate,True
+Male,False,Not Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,True
+Male,False,Not Graduate,True
+Female,False,Graduate,False
+Male,True,Not Graduate,False
+Male,False,Not Graduate,False
+Male,False,Graduate,True
+Female,False,Not Graduate,True
+Female,False,Graduate,False
+Female,False,Graduate,True
+Male,True,Not Graduate,True
+Female,False,Not Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,False
+Female,False,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Not Graduate,True
+Female,True,Not Graduate,False
+Female,False,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Not Graduate,True
+Female,False,Graduate,True
+Male,False,Graduate,False
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Female,,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Female,True,Not Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,False,Not Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,False
+Male,False,Not Graduate,False
+Male,True,Not Graduate,False
+Male,True,Not Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,False,Graduate,True
+Male,True,Graduate,False
+,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Not Graduate,True
+Male,False,Graduate,False
+Male,False,Graduate,True
+Male,True,Not Graduate,False
+,True,Graduate,True
+Female,True,Not Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Female,False,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Female,False,Not Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,False,Not Graduate,True
+Male,True,Not Graduate,True
+Male,False,Not Graduate,True
+Female,False,Not Graduate,True
+Male,True,Graduate,False
+Female,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Female,False,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+,False,Graduate,False
+Male,True,Graduate,True
+Female,False,Graduate,True
+Male,False,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,False,Graduate,False
+Male,True,Graduate,True
+Female,True,Graduate,True
+Male,True,Not Graduate,False
+Male,False,Graduate,False
+Female,False,Not Graduate,False
+Male,True,Not Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,False,Not Graduate,True
+Male,False,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Male,False,Graduate,False
+Female,False,Not Graduate,True
+Male,False,Not Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Female,True,Graduate,True
+Female,False,Graduate,False
+Female,False,Graduate,True
+Male,True,Not Graduate,True
+Female,True,Not Graduate,True
+Male,True,Graduate,True
+Male,False,Not Graduate,False
+Male,False,Graduate,True
+Female,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,True,Graduate,True
+Male,True,Not Graduate,True
+Female,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Not Graduate,True
+Male,True,Graduate,False
+Male,True,Not Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,False
+Female,False,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+,True,Graduate,False
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,False
+Female,True,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,False
+Male,True,Graduate,True
+Female,False,Not Graduate,True
+,False,Graduate,True
+Male,True,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,False
+,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,False,Not Graduate,True
+Male,True,Not Graduate,False
+Male,False,Graduate,False
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,False
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Male,False,Graduate,True
+Female,True,Graduate,True
+Male,True,Not Graduate,False
+Male,True,Graduate,True
+Male,True,Not Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Male,True,Graduate,True
+Female,False,Graduate,False
