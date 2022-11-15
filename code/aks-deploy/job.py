@@ -25,10 +25,10 @@ env.register(ws)
 # Create an Azure Kubernetes Services provisioning configuration
 name = 'aks-cluster'
 
-akonfig = AksCompute.provisioning_configuration(location='eastaustralia',
+akonfig = AksCompute.provisioning_configuration(location='eastus',
                                                 vm_size='STANDARD_D11_V2',
                                                 agent_count=1,
-                                                cluster_purpose='Staging')
+                                                cluster_purpose='Devtest')
 
 cluster = ComputeTarget.create(ws, name, akonfig)                                                
 cluster.wait_for_completion(show_output=True)
