@@ -14,7 +14,7 @@ new_run = ws.get_run('<Your Run ID>')
 
 
 # --------------------------------------------------------------------
-# Register the model using the run object and uploaded pkl file
+# Method 1: Register the model using the run object and uploaded pkl file
 # --------------------------------------------------------------------
 new_run.register_model(model_path='outputs/models.pkl', 
                        model_name='AdultIncome_models',
@@ -24,7 +24,7 @@ new_run.register_model(model_path='outputs/models.pkl',
 
 
 # --------------------------------------------------------------------
-# Register the model using Model Class and Local pkl file
+# Method 2: Register the model using Model Class and Local pkl file
 # --------------------------------------------------------------------
 from azureml.core import Model
 
