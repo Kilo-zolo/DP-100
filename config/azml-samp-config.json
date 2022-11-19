@@ -1,5 +1,5 @@
 {
     "subscription_id": "d49e9a5f-2f5d-4831-9c2d-5190b641fad6",
-    "resource_group": "dp100rg",
-    "workspace_name": "azml-samp-ws"
+    "resource_group": "az-db-rg",
+    "workspace_name": "az-db-ml"
 }

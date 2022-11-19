@@ -7,7 +7,6 @@ import os
 import pandas as pd
 import joblib
 from sklearn.metrics import confusion_matrix
-import sklearn.ensemble._forest
 
 # Get the context of the experiment run
 run = Run.get_context()

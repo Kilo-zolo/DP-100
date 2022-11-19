@@ -20,7 +20,8 @@ env = Environment(name="az-db-env")
 
 # Create the dependency object
 print("Adding dependencies...")
-env_dep = CondaDependencies.create(conda_packages=['scikit-learn', 'joblib', 'pandas'])
+env_dep = CondaDependencies.create(conda_packages=[ 'joblib', 'pandas'],
+                                    pip_packages= ['scikit-learn==0.21.3'])
 env.python.conda_dependencies = env_dep
 
 # Register the environment
